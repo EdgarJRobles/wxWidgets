@@ -219,7 +219,7 @@ msgstr "Color &fondo:"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:299
 msgid "&Blur distance:"
-msgstr ""
+msgstr "&Distancia borroza"
 
 #: ../src/common/stockitem.cpp:143
 msgid "&Bold"
@@ -360,7 +360,7 @@ msgstr "&Primero"
 
 #: ../src/richtext/richtextsizepage.cpp:244
 msgid "&Floating mode:"
-msgstr "Modo &flotante:"
+msgstr "&Modo flotante:"
 
 #: ../src/common/stockitem.cpp:160
 msgid "&Floppy"
@@ -385,7 +385,7 @@ msgstr "&Fuente:"
 
 #: ../src/common/stockitem.cpp:161
 msgid "&Forward"
-msgstr "Adelante"
+msgstr "&Adelante"
 
 #: ../src/richtext/richtextsymboldlg.cpp:451
 msgid "&From:"
@@ -393,7 +393,7 @@ msgstr "&Desde:"
 
 #: ../src/common/stockitem.cpp:162
 msgid "&Harddisk"
-msgstr "&Disco diro"
+msgstr "&Disco duro"
 
 #: ../src/richtext/richtextsizepage.cpp:351
 #: ../src/richtext/richtextsizepage.cpp:358
@@ -417,7 +417,7 @@ msgstr "&Inicio"
 
 #: ../src/richtext/richtextbackgroundpage.cpp:213
 msgid "&Horizontal offset:"
-msgstr ""
+msgstr "&Desface horizontal:"
 
 #: ../src/richtext/richtextindentspage.cpp:184
 #: ../src/richtext/richtextliststylepage.cpp:372
@@ -431,7 +431,7 @@ msgstr "&Indeterminado"
 
 #: ../src/common/stockitem.cpp:166
 msgid "&Index"
-msgstr "Índ&ice"
+msgstr "&Índice"
 
 #: ../src/common/stockitem.cpp:167
 msgid "&Info"
@@ -439,11 +439,11 @@ msgstr "&Información"
 
 #: ../src/common/stockitem.cpp:168
 msgid "&Italic"
-msgstr "Curs&iva"
+msgstr "&Cursiva"
 
 #: ../src/common/stockitem.cpp:169
 msgid "&Jump to"
-msgstr "&Ir a"
+msgstr "&saltar a"
 
 #: ../src/richtext/richtextindentspage.cpp:153
 #: ../src/richtext/richtextliststylepage.cpp:342
@@ -472,7 +472,7 @@ msgstr "&Izquierda:"
 
 #: ../src/richtext/richtextliststylepage.cpp:183
 msgid "&List level:"
-msgstr "Nivel de &Lista:"
+msgstr "&Nivel de Lista:"
 
 #: ../src/generic/logg.cpp:523
 msgid "&Log"
@@ -535,15 +535,15 @@ msgstr "&Aceptar"
 #: ../src/common/stockitem.cpp:179 ../src/generic/dbgrptg.cpp:342
 #: ../src/html/helpfrm.cpp:137
 msgid "&Open..."
-msgstr "A&brir..."
+msgstr "&Abrir..."
 
 #: ../src/richtext/richtextindentspage.cpp:222
 msgid "&Outline level:"
-msgstr "&Outline level:"
+msgstr "&Nivel de esquema:"
 
 #: ../src/richtext/richtextindentspage.cpp:293
 msgid "&Page Break"
-msgstr "Salto de &página"
+msgstr "&Salto de página"
 
 #: ../src/common/stockitem.cpp:180 ../src/msw/textctrl.cpp:2447
 #: ../src/osx/textctrl_osx.cpp:584 ../src/richtext/richtextctrl.cpp:334
@@ -556,7 +556,7 @@ msgstr "&Imagen"
 
 #: ../src/generic/fontdlgg.cpp:422
 msgid "&Point size:"
-msgstr "Tamaño de &punto:"
+msgstr "&Tamaño de punto:"
 
 #: ../src/richtext/richtexttabspage.cpp:110
 msgid "&Position (tenths of a mm):"
@@ -577,11 +577,11 @@ msgstr "&Anterior"
 
 #: ../src/richtext/richtextsizepage.cpp:675
 msgid "&Previous Paragraph"
-msgstr "Párrafo &anterior"
+msgstr "&Párrafo anterior"
 
 #: ../src/common/stockitem.cpp:183
 msgid "&Print..."
-msgstr "Im&primir..."
+msgstr "&Imprimir..."
 
 #: ../src/common/stockitem.cpp:184 ../src/richtext/richtextctrl.cpp:339
 #: ../src/richtext/richtextctrl.cpp:5461
@@ -681,11 +681,11 @@ msgstr "&Tachado"
 
 #: ../src/generic/fontdlgg.cpp:382 ../src/richtext/richtextstylepage.cpp:106
 msgid "&Style:"
-msgstr "E&stilo:"
+msgstr "&Estilo:"
 
 #: ../src/richtext/richtextstyledlg.cpp:198
 msgid "&Styles:"
-msgstr "E&stilos:"
+msgstr "&Estilos:"
 
 #: ../src/richtext/richtextsymboldlg.cpp:413
 msgid "&Subset:"
@@ -720,7 +720,7 @@ msgstr "&Arriba:"
 
 #: ../src/common/stockitem.cpp:202 ../src/generic/fontdlgg.cpp:444
 msgid "&Underline"
-msgstr "Subrayado"
+msgstr "&Subrayado"
 
 #: ../src/richtext/richtextfontpage.cpp:234
 msgid "&Underlining:"
@@ -742,7 +742,7 @@ msgstr "&No escalonado"
 
 #: ../src/common/stockitem.cpp:205
 msgid "&Up"
-msgstr "Arriba"
+msgstr "&Arriba"
 
 #: ../src/richtext/richtextsizepage.cpp:278
 msgid "&Vertical alignment:"
@@ -751,7 +751,7 @@ msgstr "&Alineación vertical:"
 #: ../src/richtext/richtextbackgroundpage.cpp:236
 #, fuzzy
 msgid "&Vertical offset:"
-msgstr "&Alineación vertical:"
+msgstr "&Desface vertical:"
 
 #: ../src/generic/dbgrptg.cpp:340
 msgid "&View..."
@@ -759,7 +759,7 @@ msgstr "&Ver..."
 
 #: ../src/generic/fontdlgg.cpp:393
 msgid "&Weight:"
-msgstr "Peso"
+msgstr "&Peso"
 
 #: ../src/richtext/richtextsizepage.cpp:317
 #: ../src/richtext/richtextsizepage.cpp:324
